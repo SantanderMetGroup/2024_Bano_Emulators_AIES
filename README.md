@@ -9,3 +9,5 @@ Both GCM and RCM data used in this study ---from the Coupled Model Intercomparis
 Baño-Medina, J., R. Manzanas, E. Cimadevilla, J. Fernández, J. González-Abad, A. S. Cofiño, and J. M. Gutiérrez, 2022a: Repository supporting the results presented in the manuscript on Downscaling Multi-Model Climate Projection Ensembles with Deep Learning (DeepESD): Contribution to CORDEX EUR-44. Zenodo.
 
 Baño-Medina, J., R. Manzanas, E. Cimadevilla, J. Fernández, J. González-Abad, A. S. Cofiño, and J. M. Gutiérrez, 2022b: Downscaling multi-model climate projection ensembles with deep learning (deepesd): contribution to cordex eur-44. Geoscientific Model Development, 15 (17), 6747–6758.
+
+Baño-Medina, J., M. Iturbide, J. Fernández, and J. M. Gutiérrez, 2024: Transferability and explainability of deep learning emulators for regional climate model projections: Perspectives for future applications Geoscientific Model Development, *Submitted to* Artificial Intelligence for the Earth Systems.
